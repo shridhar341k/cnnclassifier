@@ -1,0 +1,1 @@
+Using pip 23.2.1 from C:\Users\91900\anaconda3\envs\cnncl\lib\site-packages\pip (python 3.8)
